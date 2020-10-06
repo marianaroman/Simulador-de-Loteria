@@ -1,0 +1,69 @@
+.container{
+
+display: flex;
+
+flex-direction: column;
+
+height: 100vh;
+
+justify-content: center;
+align-items: center;
+
+}
+
+.entradas{
+
+flex-direction: column;
+
+}
+
+
+input{
+
+max-width: 2em;
+
+font-size: 3em;
+
+}
+
+
+h1{
+
+font-size: 5em;
+
+font-family: arial;
+
+color: Blue;
+
+}
+
+
+button{
+
+font-size: 4em;
+
+background-color: Grey;
+
+border: 0px;
+
+color: black;
+
+elevation: 20px;
+
+}
+
+
+#NumSort{
+
+list-style: none;
+
+font-size: 3em;
+
+}
+
+
+#numSort li{
+
+display: inline;
+
+}
