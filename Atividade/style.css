@@ -1,69 +1,39 @@
 .container{
-
 display: flex;
-
 flex-direction: column;
-
 height: 100vh;
-
 justify-content: center;
 align-items: center;
-
 }
-
 .entradas{
-
 flex-direction: column;
 
 }
-
-
 input{
-
 max-width: 2em;
-
 font-size: 3em;
 
 }
-
-
 h1{
-
 font-size: 5em;
-
-font-family: arial;
-
-color: #BA55D3 ;
-
+font-family: fantasy;
+color: red;
 }
-
-
 button{
-
 font-size: 4em;
-
-background-color: White;
-
+background-color: red;
 border: 0px;
-
-color: #BA55D3;
-
+color: white;
 elevation: 20px;
-
 }
-
-
 #NumSort{
-
 list-style: none;
-
 font-size: 3em;
-
+display: flex;
+flex-direction: row;
 }
 
-
-#numSort li{
-
-display: inline;
-
+.result{
+margin-right: 20px;
+margin-top: 20px;
 }
