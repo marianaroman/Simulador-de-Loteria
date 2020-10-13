@@ -54,7 +54,7 @@ numEsco[pos -1] = num;
 
 > Simplesmente abra baixe o código e abra o arquivo **_index.html_** no seu navegador.
 ## Exemplo de Tabela
-## Exemplo de tabela
+
 |Exemplo   | Valor do Exemplo | Quantidade  |
 |----------|------------------|-------------|
 |Exemplo 1 |R$ 10,00          |5            |
