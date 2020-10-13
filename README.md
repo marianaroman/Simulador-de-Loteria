@@ -53,3 +53,24 @@ numEsco[pos -1] = num;
 ## Como rodar o código
 
 > Simplesmente abra baixe o código e abra o arquivo **_index.html_** no seu navegador.
+## Exemplo de Tabela
+|Exemplo | Valor de exemplo |
+
+## Exemplo de imagens
+ Tela 1: Tela de abertura.
+
+![tela 1](/imagens/atl.png)
+
+Tela 2: 6 números digitados, nenhum sorteado.
+
+![tela 2](/imagens/at2.png)
+
+
+
+### Refêrencias
+
+* Html: [wikipidia](https://pt.wikipedia.org/wiki/HTML)
+* CSS:  [wikipidia](https://pt.wikipedia.org/wiki/CSS)
+* JS: [wikipidia](https://pt.wikipedia.org/wiki/JavaScript)
+
+
