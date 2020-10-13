@@ -62,15 +62,12 @@ numEsco[pos -1] = num;
 |Exemplo 3 |R$ 07,00          |34           |
 |Exemplo 4 |R$ 08,00          |23           |
 
-## Exemplo de imagens
- Tela 1: Tela de abertura.
+## Imagens da tela
+Tela 1: Tela de abertura
+![Tela1](/imagens/at.png)
 
-![tela 1](/img/at.png)
-
-Tela 2: 6 números digitados, nenhum sorteado.
-
-![tela 2](/img/at1.png)
-
+Tela 2: 6 números digitados e 2 acertos
+![Tela2](/imagens/at1.png)
 
 
 ### Refêrencias
