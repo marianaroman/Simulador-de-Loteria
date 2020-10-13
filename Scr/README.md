@@ -65,11 +65,11 @@ numEsco[pos -1] = num;
 ## Exemplo de imagens
  Tela 1: Tela de abertura.
 
-![tela 1](/imagens/at.png)
+![tela 1](/img/at.png)
 
 Tela 2: 6 números digitados, nenhum sorteado.
 
-![tela 2](/imagens/at1.png)
+![tela 2](/img/at1.png)
 
 
 
